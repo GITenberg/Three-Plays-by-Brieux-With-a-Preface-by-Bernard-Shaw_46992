@@ -1,4 +1,5 @@
 _repo: Three-Plays-by-Brieux-With-a-Preface-by-Bernard-Shaw_46992
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Shaw, Bernard
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '467'
     url: http://www.gutenberg.org/2009/agents/467
     wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+covers:
+- cover_type: archival
+  image_path: 46992-h/images/cover.jpg
 creator:
   author:
     agent_name: Brieux, Eugène
@@ -19,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Brieux
 description: Preface. -- Maternity, tr. by Mrs. B. Shaw. -- The three daughters of
   M. Dupont, tr. by St. J. Hankin. -- Damaged goods, tr. by J. Pollock.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46992#Three-Plays-by-Brieux-With-a-Preface-by-Bernard-Shaw
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
